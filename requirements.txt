@@ -1,0 +1,7 @@
+﻿pandas==2.0.3
+numpy==1.24.3
+duckdb==0.8.0
+dbt-core==1.5.0
+dbt-duckdb==1.5.0
+sqlalchemy==2.0.19
+pytest==7.4.0
